@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Sahaj Bunglows",
+    "price": "47,043",
+    "detail": "Radhanpur Road , Maheshana - 566311 , Gujarat, India",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Godhrej Garden City",
+    "price": "66,353",
+    "detail": "S.G. Highway, Near Nirma Univercity , Ahmedabad- 0102010 , Gujarat , India",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Royal Haritage ",
+    "price": "35,853",
+    "detail": "T.B. Road , Near Sachivalay , Patan-384220 , Gujarat , India",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Gukul Residency",
+    "price": "47,043",
+    "detail": "Ahmedabad-Palanpur Highway , Near Gokul Industris , Sidhpur-526586 , Patan-Gujarat , India",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Judges Bunglows",
+    "price": "66,353",
+    "detail": "Judges Bunglow Road , Near Akash Flates, Ahmedabad- 380002, Gujarat , India",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Anutham Residency",
+    "price": "35,853",
+    "detail": "Vande Matram, Near municipal garden , Gota-356982 , Ahmedabad , Gujarat, India",
+    "image": "./r3.png"
+  }
+]

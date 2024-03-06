@@ -1,0 +1,30 @@
+.aboutUsPage {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+}
+
+.aboutUsPage h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+.aboutUsPage p {
+  font-size: 1.125rem;
+  margin-bottom: 1.5rem;
+  color: #666;
+}
+
+.aboutUsHeader {
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 1rem;
+  margin-bottom: 2rem;
+}
+
+.aboutUsHeader p {
+  font-size: 1.125rem;
+  color: #999;
+}

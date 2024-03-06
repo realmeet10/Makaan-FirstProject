@@ -1,0 +1,55 @@
+.f-wrapper {
+  background-color: #132b4e;
+  flex: auto;
+}
+
+.f-container {
+  justify-content: space-between;
+  border-top: 0.5px solid rgba(119, 116, 116, 0.377);
+}
+.f-left {
+  gap: 1rem;
+}
+
+.f-menu {
+  color: rgb(140 139 139);
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+  font-weight: 500;
+}
+
+.f-menuHover:hover {
+  color: #ffffffd6;
+  transform: scale(1.1) translate(13%, 0%);
+  transition: all 0.3s cubic-bezier(0.32, -0.01, 0.58, 1) 0s;
+}
+.cretedBy {
+  color: rgb(140 139 139);
+  font-weight: 200;
+  display: flex;
+  font-size: medium;
+  justify-content: space-around;
+}
+.f-text {
+  color: #ffffff87;
+  font-size: medium;
+  font-weight: 500;
+  /* text-shadow: 0px 0px 14px gray; */
+}
+
+.copyright {
+  color: #ffffff87;
+  font-size: medium;
+  font-weight: 500;
+  /* text-shadow: 0px 0px 14px gray; */
+}
+
+@media (max-width: 768px) {
+  .f-container {
+    justify-content: center;
+  }
+  .f-container > div {
+    align-items: center;
+    text-align: center;
+  }
+}
