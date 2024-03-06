@@ -11,7 +11,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
       domain="realmeet10.us.auth0.com"
       clientId="XEiJskMLWQD0pNfIwVhsE0OWxyf2DZhV"
       authorizationParams={{
-        redirect_uri: "http://localhost:5173",
+        redirect_uri: "https://makaan-first-project.vercel.app",
       }}
       audience="http://localhost:8000"
       scope="openid profile email"
